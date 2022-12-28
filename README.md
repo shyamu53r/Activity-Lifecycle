@@ -1,6 +1,5 @@
 # Activity Life Cycle
 
-# Activity Life Cycle
 **Activity** :- It is the *single screen* in android. It is like *window* or *frame of Java*.
 
 The **Activity lifecycle** is the set of states an activity can be in during its entire lifetime, from the time it's created to when it's destroyed and the system reclaims its resources. It is important to know about Activity Lifecycle as it helps developers understand which states activities go through when a user navigates through an app. See Below image for better understanding.
