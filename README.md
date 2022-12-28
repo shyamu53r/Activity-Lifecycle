@@ -22,7 +22,7 @@ The **Activity lifecycle** is the set of states an activity can be in during its
 
 ![Demo_App_of_ALC](https://i.imgur.com/D5gpebw.gif)
 
-*I've just started my journey in Android Development. If i'm missing something important or else have questions. Pleae let me know. i'll update ASAP.*
+*I've just started my journey in Android Development. If i'm missing something important or else have questions. Please let me know. i'll update ASAP.*
 
 
 
